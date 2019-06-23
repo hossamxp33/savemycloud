@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">savemycloud</string>
+    <string name="chatsing">محادثات</string>
+    <string name="search">بحث</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">الغاء</string>
+    <string name="delete_chat">مسح المحادثات</string>
+    <string name="personal_info">المعلومات الشخصية</string>
+    <string name="changepass">نغيير كلمة المرور</string>
+    <string name="blocklist">قائمة الحظر</string>
+    <string name="addfriend">اصافة صديق</string>
+</resources>
